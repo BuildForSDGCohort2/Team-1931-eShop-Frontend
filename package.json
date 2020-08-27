@@ -1,0 +1,19 @@
+{
+  "name": "team-1931-eshop-frontend",
+  "version": "1.0.0",
+  "description": "[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a26e0558794e4d31adfeea6b2145dfec)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-1931-eShop-Frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-1931-eShop-Frontend&utm_campaign=Badge_Grade_Settings)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuildForSDGCohort2/Team-1931-eShop-Frontend.git"
+  },
+  "author": "Anthony Oageng Ditlhareng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuildForSDGCohort2/Team-1931-eShop-Frontend/issues"
+  },
+  "homepage": "https://github.com/BuildForSDGCohort2/Team-1931-eShop-Frontend#readme"
+}
