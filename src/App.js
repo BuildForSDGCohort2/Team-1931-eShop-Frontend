@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       Haibo to Bantu Bonke Grocery Shopping
-      </header>
+       Header
+      </header>      
     </div>
   );
 }
